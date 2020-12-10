@@ -24,6 +24,7 @@ After completing the course, the students will be able to
  
  
 Content 
+
 1 Introduction Scientific Programming 
 
 2 Introduction to MATLAB: Basic Commands and Syntax, Vectors and Matrices 
