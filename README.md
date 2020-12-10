@@ -2,13 +2,16 @@ BS 443 Scientific Programming
  
 
 Objective 
+
 The objectives of the course are such that students get familiarized with the fundamentals of scientific programming, learn scientific and engineering calculations and to improve programming skills. 
  
 Description 
+
 The course begins with an introduction to the basics of MATLAB programming, accompanied by several applications of fundamental coding elements and concepts. Then, more specialized topics related to scientific computing and mathematics are explored that allows students to access and analyze several "real world" problems. 
  
 
 Learning Outcomes 
+
 After completing the course, the students will be able to  
 
  -understand the main features of the MATLAB development environment 
