@@ -1,4 +1,4 @@
-BS 443 Scientific Programming 
+# BS 443 Scientific Programming 
  
 
 Objective 
